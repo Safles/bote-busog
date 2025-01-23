@@ -81,6 +81,7 @@
     int metal_btn = digitalRead(bread_pin);
     int plastic_btn = digitalRead(tissue_pin);
 
+    // Debugging
     // Serial.print(plastic_count);
     // Serial.print("\t");
     // Serial.println(metal_count);
